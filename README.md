@@ -2,21 +2,20 @@
 Lista de tarefas:
 To Do List com sistema de adicionar, editar e excluir texto.
 
-Design:
-![lista de tarefas-1](https://github.com/V1ctor-Souza/To-Do-List-versao-2/assets/140133763/386e0585-6a77-4cad-85d3-4e9c9528866c)
-
+Design do site:
+![tarefa1](https://github.com/V1ctor-Souza/To-Do-List-versao-2/assets/140133763/c09fd90c-4949-4c0f-9cf7-746bc7a8f8ac)
 
 Tarefas adicionadas:
-![Lista de tarefas-2](https://github.com/V1ctor-Souza/To-Do-List-versao-2/assets/140133763/88e53e09-01fd-4823-9c6e-33fcf1fd00e1)
+![tarefa2](https://github.com/V1ctor-Souza/To-Do-List-versao-2/assets/140133763/cd4e5dbe-a6a5-447b-90cb-ca3c7ff90db2)
 
-Tarefas concluídas:
-![Lista de tarefas-3](https://github.com/V1ctor-Souza/To-Do-List-versao-2/assets/140133763/7900d8c0-1895-401f-97f3-7d3dac24b836)
+Tarefas marcadas como concluídas:
+![tarefa3](https://github.com/V1ctor-Souza/To-Do-List-versao-2/assets/140133763/4d4ecf03-ee87-477c-b677-550e67ee4688)
 
-Solicitação para editar tarefa:
-![Lista de tarefas-4](https://github.com/V1ctor-Souza/To-Do-List-versao-2/assets/140133763/f1990ac6-9176-4c02-8367-10f0eef54b31)
+Editando tarefa:
+![tarefa4](https://github.com/V1ctor-Souza/To-Do-List-versao-2/assets/140133763/a6b3ef83-7ea0-4fe4-a8ac-09d2348e6555)
 
-Tarefa editada:
-![Lista de tarefas-5](https://github.com/V1ctor-Souza/To-Do-List-versao-2/assets/140133763/3afacf04-85ef-413c-b164-0f49976ea949)
+Tarefa editada com êxito:
+![tarefa5](https://github.com/V1ctor-Souza/To-Do-List-versao-2/assets/140133763/55eb6f9d-934d-460a-88ef-7545eb7b6e2c)
 
-Tarefa excluída:
-![Lista de tarefas-6](https://github.com/V1ctor-Souza/To-Do-List-versao-2/assets/140133763/7f3fbf06-a093-41d2-872a-e41cc1bdf15d)
+Tarefas deletadas:
+![tarefa6](https://github.com/V1ctor-Souza/To-Do-List-versao-2/assets/140133763/d1a53b99-f40c-46b1-b9ab-c394e977bf31)
