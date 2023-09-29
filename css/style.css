@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    background: tomato;
+}
+
+span{
+    margin-left: 8px;
+    position: relative;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+span::before{
+    content: ' ';
+    width: 0%;
+    height: 2px;
+    background-color: #000;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transition: 0.3s;
+}
+span.ativar{
+    color: #9C9E9F;
+}
+span.ativar::before{
+    width: 100%;
+}
+
+.container{
+    width: 620px;
+    margin: 0 auto;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    height: 100%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.container h2{
+    font-size: 2.2em;
+}
+
+.container form{
+    display: flex;
+    align-items: center;
+}
+.container input{
+    height: 30px;
+    outline: none;
+    padding: 5px;
+    font-size: 1em;
+}
+
+.container .adicionar{
+    font-size: 2.5em;
+    margin-left: 10px;
+    cursor: pointer;
+    color: green;
+    background: transparent;
+    border: none;
+    height: 100%;
+}
+
+.container .resultados{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.container .tarefa{
+    display: flex;
+    position: relative;
+    border: 1px solid #ccc;
+    align-items: center;
+    padding: 5px;
+}
+
+.container .tarefa .excluir{
+    color: red;
+    position: absolute;
+    top: center;
+    right: 5px;
+    cursor: pointer;
+    font-size: 1.3em;
+}
+
+/*-------------------------------*/
+i{
+    font-size: 1.8em;
+    margin-left: 6px;
+    margin-bottom: 5px;
+    color: green;
+}
+
+.circulo{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    border: 2px solid #222121;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin-left: 10px;
+}
