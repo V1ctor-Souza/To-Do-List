@@ -1,14 +1,17 @@
-# To-Do-List-versao-2
+# To-Do-List
 Lista de tarefas:
 To Do List com sistema de adicionar, editar e excluir texto.
 
 Design do site:
+
 ![tarefa1](https://github.com/V1ctor-Souza/To-Do-List-versao-2/assets/140133763/c09fd90c-4949-4c0f-9cf7-746bc7a8f8ac)
 
 Tarefas adicionadas:
+
 ![tarefa2](https://github.com/V1ctor-Souza/To-Do-List-versao-2/assets/140133763/cd4e5dbe-a6a5-447b-90cb-ca3c7ff90db2)
 
 Tarefas marcadas como concluídas:
+
 ![tarefa3](https://github.com/V1ctor-Souza/To-Do-List-versao-2/assets/140133763/4d4ecf03-ee87-477c-b677-550e67ee4688)
 
 Editando tarefa:
